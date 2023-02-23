@@ -1,0 +1,13 @@
+
+.list {
+    margin: 0 auto;
+    background-color: blueviolet;
+    color:#eee;
+    cursor: pointer;
+    width: 450px;
+    padding: 10px;
+    border-radius: 5px;
+}
+.btn-delete {
+    margin-left: 10px;
+}

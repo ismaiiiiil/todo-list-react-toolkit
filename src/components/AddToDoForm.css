@@ -1,0 +1,19 @@
+.form {
+    display: flex;
+    justify-content: center;
+    /* align-items: center; */
+    width: 120%;
+    margin: 14px 0;
+}
+
+.add-btn {
+    margin-right: 45px;
+    height: 36px;
+    border-radius: 0;
+}
+input[type="text"]{
+    border-radius: 0;
+    height: 36px;
+    width: 228px;
+    /* margin-left: 40px; */
+}
